@@ -3,13 +3,13 @@ I did Ecstasy (XTC, molly, mdma) three times over a three month range. It made m
 That is how I saved myself and I am still regenerating. That was two years ago. Today I am a lot better and I present to you things that I did to save myself.
 
 ## Diet
-- Eat plant based diet.
+- Eat **plant based** diet.
 - No coffee, tea, sugar, sweets, salty, processed, foods.
 - Eat a lot of vegetables. No fruits.
 - In particular eat dark leafy vegetables.
-- Be on a low *GI diet*.
+- Be on a low **GI diet**.
 - Drink only water.
-- Make drinking milled chia seeds your breakfast daily routine.
+- Make drinking milled chia seeds your daily breakfast routine.
 - After eating don't drink anything for 3 hours.
 
 Explanation:
@@ -22,21 +22,22 @@ Explanation:
 
 Biased:
 - No fruits - fruits are healthy [Source](https://nutritionfacts.org/video/how-much-fruit-is-too-much/) but in this state I have found that sugar that is in them makes me more sick.
-- Simillar situation with coffe, tea and salty, processed foods.
+- Similar situation with coffee, tea and salty, processed foods.
 - Chia seeds - I have found that I don't feel good when my first meal contains carbs and I need some source of Omega-3. I think that light breakfast/dinner is the key to regenerate.
-- Drink only clean water - everything that is in water is absorbed really fast so drinking after eating is not a good idea too.
-- Diet is the key to regenerate.
+- Drink only clean water - everything that is in water is absorbed really fast so drinking after eating is not a good idea too. Water from plastic is not necessarily clean.
+- **Diet is the key to regenerate**.
+- Drinking after eating makes me sick.
 
 ## Exercise
 - Exercise everyday/two days. [Source](https://nutritionfacts.org/video/exercise-vs-drugs-for-depression/).
-- Do not over exercise. Light exercise for 30-60 min. are okay.
+- Do not over exercise. Light exercise for 30-60 min. are great!
 
 Explanation:
-- In this state your cortisol levels are a lot higher [Source](https://www.zrtlab.com/blog/archive/impact-hormones-serotonin-depression/), exercises elevates cortisol levels even more [Source](https://www.dnafit.com/us/advice/fitness/cortisol-stress-and-exercise.asp) so don't overdo it like me.
+- In this state your cortisol levels are a lot higher [Source](https://www.zrtlab.com/blog/archive/impact-hormones-serotonin-depression/), exercises elevates cortisol levels even more [Source](https://www.dnafit.com/us/advice/fitness/cortisol-stress-and-exercise.asp) so don't overdo it.
 - You can not speed up this processes, exercising more can make you more sick.
 
 Biased:
-- I sometimes felt better after exercising.
+- Exercising can make you feel better.
 
 ## Supplements
 - [Here, it is important](https://nutritionfacts.org/2011/09/12/dr-gregers-2011-optimum-nutrition-recommendations/).
@@ -44,24 +45,29 @@ Biased:
 - DO NOT EXPERIMENT WITH THINGS LIKE 5-HTP, Lion's mane shrooms, St. John's wort, Turmeric, etc.
 
 Biased:
-- DO NOT BE STUPID LIKE ME. YOU CAN NOT MAKE THIS PROCESS FASTER.
+- YOU CAN NOT MAKE THIS PROCESS FASTER WITH DRUGS.
 - About Antidepressants: there is no shame in taking them but if you don't have to: don't.
 - Iodine, Selenium & Omega-3 supplements make me tired. Others for me are okay. You can get them in food (Algae, Chia seeds).
 - I experimented a lot and found out that it is not worth it. It made me even more sick.
+
+## Air
+- Air quality impacts our well-being. [Source](https://nutritionfacts.org/topics/air-pollution/)
+- If your city is polluted you can buy good pollution mask, indoor you can have air cleaner.
+- Remember to ventilate your room, CO<sub>2</sub> levels impact brain performance [Source](https://www.ncbi.nlm.nih.gov/pubmed/3114218)
 
 ## Other tips (biased)
 - Don't blame yourself. Trust yourself.
 - Stick to family & friends. Don't isolate. Socialize if you can. It's okay if you can't.
 - You will make a lot of mistakes but you will learn about yourself a lot.
-- Get help! Psychologist?
-- *Stress* is bad. Make everything you can to make you feel comfortable. This is very important. Stress will destroy you in one year in this state and you probably will be in this state for sometime. Trust me.
+- Get help! Psychologist, psychiatrist, even your aunt.
+- **Stress** is bad. Make everything you can to make you feel comfortable. This is very important. Stress will destroy you in one year in this state and you probably will be in this state for sometime. Trust me.
 - You can have memory and thinking issues - it's okay, it will be better.
 - Don't experiment, trust your body.
 - It's okay to feel like shit.
 - Sleep well (from 7 to 9 h).
 - Don't push yourself too much.
-- If you are not better after 6 months, try psychiatrist.
-- Time, diet, exercise and love is the only medication.
+- If you are not better after 6 months, try visiting psychiatrist.
+- Time, diet, exercise, consistence and love is the only medication.
 - Love of the others can help you a lot.
 - You will probably forget a lot of this, that's okay too.
 
