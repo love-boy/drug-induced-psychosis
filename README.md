@@ -1,4 +1,4 @@
-# Drug Induced Depression
+# Drug Induced Depersonalization
 I did Ecstasy (XTC, molly, mdma) three times over a three month range. It made me really sick: near psychosis state, depression, tired, anxiety and sometimes panic attacks.
 I have managed to save myself and I am still regenerating. That was two years ago. Today I am a lot better and I present to you things that I did to be here, now.
 
@@ -9,7 +9,7 @@ I have managed to save myself and I am still regenerating. That was two years ag
 - In particular eat dark leafy vegetables.
 - Be on a low **GI diet**.
 - Drink only water.
-- Make drinking milled chia seeds your daily breakfast routine.
+- Minimaze amount of carbohydrates on breakfast/supper (you can try e.g. chia seeds).
 - After eating don't drink anything for 3 hours.
 
 Explanation:
@@ -50,6 +50,7 @@ Biased:
 - Air quality impacts our well-being [Source](https://nutritionfacts.org/topics/air-pollution/).
 - If your city is polluted you can buy good pollution mask, indoor you can have air cleaner.
 - Remember to ventilate your room, CO<sub>2</sub> levels impact your brain performance [Source](https://www.ncbi.nlm.nih.gov/pubmed/3114218).
+- Fragrance (perfumes etc.) can be toxic [Source](https://www.ncbi.nlm.nih.gov/pubmed/9577937)
 
 ## Other tips (biased)
 - Music can make you more unstable, it forces brain to stimulate but you need to cooldown, sorry.
@@ -73,4 +74,4 @@ If you have any questions, open new issue.
 
 ### Tags
 "life destroyed after taking drugs", "anxiety after taking drugs", "i don't feel the same after taking drugs", "serotonin depletion tips to recover"  
-"depression after taking drugs", "drug induced psychosis"
+"depression after taking drugs", "drug induced psychosis", "drug induced depersonalization"
